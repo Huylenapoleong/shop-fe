@@ -4,7 +4,7 @@ function Head()
     return(
         <>
 
-        <h1>haizzz</h1>
+        <h1>haizzzzzzzzz</h1>
         </>
     )
 }
