@@ -3,6 +3,7 @@ function Head()
 {
     return(
         <>
+
         <h1>haizzz</h1>
         </>
     )
