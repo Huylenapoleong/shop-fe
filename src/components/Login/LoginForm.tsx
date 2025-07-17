@@ -97,7 +97,7 @@ export default function LoginForm() {
               type="button"
               className="w-full h-[41px] md:h-[48px] lg:h-[52px] text-sm md:text-base lg:text-lg font-medium border border-gray-300 p-2 rounded-lg mb-4 hover:bg-black hover:text-white transition-all duration-200 flex items-center justify-center"
             >
-             <img src="/google.svg" alt="Google" className="w-5 h-5" />
+             <img src="./google.svg" alt="Google" className="w-5 h-5" />
               Sign in with Google
             </button>
           </div>
@@ -114,9 +114,9 @@ export default function LoginForm() {
         {/* Right side (Image) */}
         <div className="hidden md:flex items-center justify-center md:w-1/2 h-full">
           <img
-            src="/LoginBgr (1).jpg"
+            src="./LoginBgr.jpg"
             alt="Login Illustration"
-            className="w-full h-full object-fill"
+            className="w-full h-full object-cover"
           />
         </div>
       </div>
